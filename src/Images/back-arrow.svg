@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="42px" viewBox="0 0 60 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="New-LogiTrack-Mobile-Application." stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3.-Assign" transform="translate(-52.000000, -69.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="right-arrow-(1)" transform="translate(82.000000, 90.000000) scale(-1, 1) translate(-82.000000, -90.000000) translate(52.000000, 69.000000)">
+                <path d="M39.759375,0.888125 C38.955,0.055625 37.61625,0.055625 36.78375,0.888125 C35.979375,1.6925 35.979375,3.03125 36.78375,3.83375 L51.871875,18.921875 L2.083125,18.921875 C0.9225,18.92375 0,19.84625 0,21.006875 C0,22.1675 0.9225,23.12 2.083125,23.12 L51.871875,23.12 L36.78375,38.18 C35.979375,39.0125 35.979375,40.353125 36.78375,41.155625 C37.61625,41.988125 38.956875,41.988125 39.759375,41.155625 L58.419375,22.495625 C59.251875,21.69125 59.251875,20.3525 58.419375,19.55 L39.759375,0.888125 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

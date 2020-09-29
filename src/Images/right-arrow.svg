@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="New-LogiTrack-Mobile-Application." stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.-Dashboard" transform="translate(-422.000000, -674.000000)" fill="#828EA5" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(52.000000, 427.000000)">
+                <g id="job-1">
+                    <g id="Group">
+                        <g id="right-arrow-(1)" transform="translate(390.000000, 261.000000) scale(-1, 1) translate(-390.000000, -261.000000) translate(370.000000, 247.000000)">
+                            <path d="M26.50625,0.592083333 C25.97,0.0370833333 25.0775,0.0370833333 24.5225,0.592083333 C23.98625,1.12833333 23.98625,2.02083333 24.5225,2.55583333 L34.58125,12.6145833 L1.38875,12.6145833 C0.615,12.6158333 0,13.2308333 0,14.0045833 C0,14.7783333 0.615,15.4133333 1.38875,15.4133333 L34.58125,15.4133333 L24.5225,25.4533333 C23.98625,26.0083333 23.98625,26.9020833 24.5225,27.4370833 C25.0775,27.9920833 25.97125,27.9920833 26.50625,27.4370833 L38.94625,14.9970833 C39.50125,14.4608333 39.50125,13.5683333 38.94625,13.0333333 L26.50625,0.592083333 Z" id="Shape" transform="translate(19.681250, 14.014583) scale(-1, 1) translate(-19.681250, -14.014583) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
